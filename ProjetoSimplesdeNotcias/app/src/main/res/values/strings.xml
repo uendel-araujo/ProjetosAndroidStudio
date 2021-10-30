@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Projeto Simples de Notícias</string>
+    <string name="imagem_principal">Imagem Inicial do Aplicativo</string>
+    <string name="titulo_noticia1">Aprenda Sobre Edição de Imagens</string>
+    <string name="data_noticia1">30/10/2021</string>
+    <string name="conteudo_noticia1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
+                                     dolorem incidunt iste maiores voluptate voluptatibus? Blanditiis
+                                     commodi cumque delectus enim expedita, explicabo fugit laudantium
+                                     natus quia, repellat repudiandae, sequi vero.
+
+                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
+                                     dolorem incidunt iste maiores voluptate voluptatibus? Blanditiis
+                                     commodi cumque delectus enim expedita, explicabo fugit laudantium
+                                     natus quia, repellat repudiandae, sequi vero.
+    </string>
+    <string name="nome_autor_noticia1">Uendel Ives</string>
+    <string name="botao_anterior">Anterior</string>
+    <string name="botao_proximo">Próximo</string>
+</resources>

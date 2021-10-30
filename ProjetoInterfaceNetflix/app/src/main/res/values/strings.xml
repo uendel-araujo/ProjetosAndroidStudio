@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Projeto Interface Netflix</string>
+    <string name="titulo_serie">House of Cards</string>
+    <string name="text_temporada_episodio">S1 : EP1</string>
 </resources>

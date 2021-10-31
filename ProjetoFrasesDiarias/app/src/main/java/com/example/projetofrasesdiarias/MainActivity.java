@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+import java.util.Random;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -30,8 +32,10 @@ public class MainActivity extends AppCompatActivity {
 
         };
 
+        int nFrases = new Random().nextInt(11);
+
         TextView texto = findViewById(R.id.textResultado);
-        texto.setText(frases);
+        texto.setText(frases[nFrases]);
 
     }
 }

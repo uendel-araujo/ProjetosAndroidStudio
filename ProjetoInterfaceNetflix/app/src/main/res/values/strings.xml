@@ -6,4 +6,6 @@
     <string name="contentDesc_Volume">Selecionar Volume</string>
     <string name="contentDes_star">Definir se Curtiu</string>
     <string name="contentDesc_copyCont">Copiar Conteúdo</string>
+    <string name="tempo_corremte">01:30</string>
+    <string name="time_total">42:20</string>
 </resources>

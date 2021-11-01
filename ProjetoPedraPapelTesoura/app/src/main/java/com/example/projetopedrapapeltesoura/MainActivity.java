@@ -13,27 +13,19 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void selecionadoPedra(View view){
-
-
-
+        this.opcaoSelecionada("Pedra");
     }
 
     public void selecionadoPapel(View view) {
-
-
-
+        this.opcaoSelecionada("Papel");
     }
 
     public void selecionadoTesoura(View view) {
-
-
-
+        this.opcaoSelecionada("Tesoura");
     }
 
     public void opcaoSelecionada(String opcaoSelecionada){
-
-
-
+        System.out.println(opcaoSelecionada);
     }
 
 }

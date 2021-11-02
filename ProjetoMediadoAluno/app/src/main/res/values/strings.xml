@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Projeto Media do Aluno</string>
+    <string name="text_titulo_projeto">Média Final</string>
+    <string name="hintEditText">Nota 1ª Unidade (A3)</string>
+    <string name="hintEditText2">Nota 2ª Unidade (A2)</string>
+    <string name="hintEditText3">Nota 3ª Unidade (A3)</string>
+    <string name="hintEditText1">Nota 1ª unidade (A1)</string>
+    <string name="buttonCalcularMedia">Calcular Média</string>
+    <string name="textResultadoFinal" />
 </resources>

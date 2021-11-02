@@ -6,4 +6,13 @@
     <string name="contentDesc_pedra">Imagem Pedra</string>
     <string name="contentDesc_Papel">Imagem Papel</string>
     <string name="contentDesc_Tesoura">Imagem Tesoura</string>
+    <string name="text_TituloPlacarGeral">Placar Geral</string>
+    <string name="text_placar_usuario">Usuário</string>
+    <string name="text_placar_computador">Computador</string>
+    <string name="text_placar_empate">Empate</string>
+    <string name="text_resultado_usuario">0</string>
+    <string name="text_resultado_computador">0</string>
+    <string name="text_resultado_empate">0</string>
+    <string name="text_total_partidas">Partidas Jogadas</string>
+    <string name="text_resultado_partidasJogadas">0</string>
 </resources>

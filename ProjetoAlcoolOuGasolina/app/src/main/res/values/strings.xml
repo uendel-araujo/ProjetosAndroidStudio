@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projeto Alcool Ou Gasolina</string>
+    <string name="text_informativo">Saiba a melhor opção de abastecimento do seu veículo</string>
+    <string name="image_logo">Logo do app</string>
+    <string name="edit_preco_alcool">Preço do Álcool - ex.: 4.90</string>
+    <string name="edit_preco_gasolina">Preço da Gasolina - ex.: 6.58</string>
+    <string name="button_calcular">CALCULAR</string>
+    <string name="text_resultadoFinal" />
+</resources>
